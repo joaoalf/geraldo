@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57395d34-182b-4ff8-b278-6b094cd40423" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geraldo/__init__.py" afterPath="$PROJECT_DIR$/geraldo/__init__.py" />
     </list>
     <ignored path="geraldo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="setup.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="setup.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="30" selection-start="994" selection-end="994" vertical-scroll-proportion="0.5768621">
+            <state line="25" column="30" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/geraldo/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="1" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.822504">
               <folding />
             </state>
           </provider>
@@ -45,6 +53,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/geraldo/__init__.py" />
       </list>
     </option>
   </component>
@@ -87,6 +96,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="geraldo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geraldo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geraldo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geraldo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="geraldo" />
@@ -238,7 +261,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="994" selection-end="994" vertical-scroll-proportion="0.5768621">
+        <state line="25" column="30" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geraldo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="1" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.822504">
           <folding />
         </state>
       </provider>
