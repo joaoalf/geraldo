@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57395d34-182b-4ff8-b278-6b094cd40423" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geraldo/__init__.py" afterPath="$PROJECT_DIR$/geraldo/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
     </list>
     <ignored path="geraldo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="setup.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="setup.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="30" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0">
+            <state line="15" column="36" selection-start="374" selection-end="374" vertical-scroll-proportion="0.33280507">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geraldo/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="1" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.822504">
+            <state line="63" column="1" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,8 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/geraldo/__init__.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
       </list>
     </option>
   </component>
@@ -259,16 +259,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/setup.py">
+    <entry file="file://$PROJECT_DIR$/geraldo/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0">
+        <state line="63" column="1" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geraldo/__init__.py">
+    <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="1" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.822504">
+        <state line="15" column="36" selection-start="374" selection-end="374" vertical-scroll-proportion="0.33280507">
           <folding />
         </state>
       </provider>
