@@ -13,7 +13,7 @@ from geraldo import get_version
 
 setup(
     name = 'Geraldo',
-    version = get_version(),
+    version = '0.1dev_joaoalf_branch',
     description = 'Geraldo is a reports engine for Python and Django applications',
     long_description = 'Geraldo is a Python and Django pluggable application that works with ReportLab to generate complex reports.',
     author = 'Marinho Brandao',
