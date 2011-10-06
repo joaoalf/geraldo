@@ -3,13 +3,13 @@
 # Downloads setuptools if not find it before try to import
 try:
     from setuptools import setup, find_packages
-except:
+except ImportError:
     from ez_setup import use_setuptools
     use_setuptools()
     from setuptools import setup, find_packages
 
-from setuptools import setup
-from geraldo import get_version
+#from setuptools import setup
+#from geraldo import get_version
 
 setup(
     name = 'Geraldo',
