@@ -13,7 +13,7 @@ except ImportError:
 
 setup(
     name = 'Geraldo',
-    version = '0.1dev_joaoalf_branch',
+    version = '0.4dev_joaoalf_branch',
     description = 'Geraldo is a reports engine for Python and Django applications',
     long_description = 'Geraldo is a Python and Django pluggable application that works with ReportLab to generate complex reports.',
     author = 'Marinho Brandao',
@@ -21,7 +21,7 @@ setup(
     url = 'http://www.geraldoreports.org/',
     #download_url = 'http://ufpr.dl.sourceforge.net/sourceforge/geraldo/Geraldo-0.2-stable.tar.gz',
     license = 'GNU Lesser General Public License (LGPL)',
-    packages = ['geraldo', 'geraldo.tests', 'geraldo.generators',],
+    packages = find_packages(),
     setup_requires = ['reportlab'],
     install_requires = ['reportlab',
                         'pil'],
